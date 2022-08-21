@@ -12,13 +12,15 @@ Wine's physical properties create its taste, meaning if the physical process can
 
 ## File Structure
 
-* data
+* data Directory
 	+ contains the data for all projects
-* Wine Terroir
+* Wine Terroir Directory
 	+ Data processing for wine terroir data
 	+ Causal modeling for wine terroir
 	+ PDFs of these notebooks
 	+ requirements.txt for this analysis
+* Red_and_White_Wine_Quality.ipynb
+	+ notebook coving a causal analysis focusing on the chimical interactions in wine
 
 
 
