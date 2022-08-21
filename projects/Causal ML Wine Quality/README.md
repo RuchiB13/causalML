@@ -23,4 +23,9 @@ Wine's physical properties create its taste, meaning if the physical process can
 	+ notebook coving a causal analysis focusing on the chimical interactions in wine
 
 
+## Video
+
+TODO add link
+
+
 
