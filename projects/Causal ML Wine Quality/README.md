@@ -22,7 +22,7 @@ Wine's physical properties create its taste, meaning if the physical process can
 * Red_and_White_Wine_Quality.ipynb
 	+ notebook covering a causal analysis focusing on the chemical interactions in wine
 * redWineAlcohol.ipynb
-	+ notebook analyzing the causal effect of alcohol on wine quality
+	+ notebook analyzing t causal effect of alcohol on wine quality
 
 
 ## Video
